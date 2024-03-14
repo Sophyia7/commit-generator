@@ -1,0 +1,3 @@
+pieces_os_client
+websockets
+streamlit 
